@@ -1,0 +1,22 @@
+#body {
+    padding: 0;
+    margin: 0;
+    background-color: 164FEB;
+}
+
+
+#separador 
+
+{
+   height: 20%;
+   width: 100%;
+   background: 164FEB;
+}
+
+#contenedor
+{
+   height: 100%;
+   width: 50%;
+   background: 164FEB;
+   margin-left: 10vh;
+}
